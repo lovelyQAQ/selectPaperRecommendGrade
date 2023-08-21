@@ -1,0 +1,275 @@
+TODS,ACM Transactions on Database Systems,A,数据期刊,ACM
+TKDE,IEEE Transactions on Knowledge and Data Engineering,A,数据期刊,IEEE
+VLDBJ,The VLDB Journal,A,数据期刊,Springer
+TKDD,ACM Transactions on Knowledge Discovery from Data,B,数据期刊,ACM
+TWEB,ACM Transactions on the Web,B,数据期刊,ACM
+AEI,Advanced Engineering Informatics,B,数据期刊,Elsevier
+DKE,Data & Knowledge Engineering,B,数据期刊,Elsevier
+DMKD,Data Mining and Knowledge Discovery,B,数据期刊,Springer
+EJIS,European Journal of Information Systems,B,数据期刊,Springer
+GeoInformatica,GeoInformatica,B,数据期刊,Springer
+IPM,Information Processing and Management,B,数据期刊,Elsevier
+Information Sciences,Information Sciences,B,数据期刊,Elsevier
+IS,Information Systems,B,数据期刊,Elsevier
+JASIST,Journal of the Association for Information Science and Technology,B,数据期刊,Wiley
+JWS,Journal of Web Semantics,B,数据期刊,Elsevier
+KAIS,Knowledge and Information Systems,B,数据期刊,Springer
+DPD,Distributed and Parallel Databases,C,数据期刊,Springer
+I&M,Information & Management,C,数据期刊,Elsevier
+IPL,Information Processing Letters,C,数据期刊,Elsevier
+IR,Information Retrieval Journal,C,数据期刊,Springer
+IJCIS,International Journal of Cooperative Information Systems,C,数据期刊,World Scientific
+IJGIS,International Journal of Geographical Information Science,C,数据期刊,Taylor & Francis
+IJIS,International Journal of Intelligent Systems,C,数据期刊,Wiley
+IJKM,International Journal of Knowledge Management,C,数据期刊,IGI
+IJSWIS,International Journal on Semantic Web and Information Systems,C,数据期刊,IGI
+JCIS,Journal of Computer Information Systems,C,数据期刊,IACIS
+JDM,Journal of Database Management,C,数据期刊,IGI-Global
+JGITM,Journal of Global Information Technology Management,C,数据期刊,Ivy League Publishing
+JIIS,Journal of Intelligent Information Systems ,C,数据期刊,Springer
+JSIS,The Journal of Strategic Information Systems,C,数据期刊,Elsevier
+DSE,Data Science and Engineering,C,数据期刊,CCF
+SIGMOD,ACM SIGMOD Conference,A,数据会议,ACM
+SIGKDD,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,A,数据会议,ACM
+ICDE,IEEE International Conference on Data Engineering,A,数据会议,IEEE
+SIGIR,International ACM SIGIR Conference on Research and Development in Information Retrieval,A,数据会议,ACM
+VLDB,International Conference on Very Large Data Bases,A,数据会议,Morgan Kaufmann/ACM
+CIKM,ACM International Conference on Information and Knowledge Management,B,数据会议,ACM
+WSDM,ACM International Conference on Web Search and Data Mining,B,数据会议,ACM
+PODS,ACM SIGMOD-SIGACT-SIGAI Symposium on Principlesof DatabaseSystems,B,数据会议,ACM
+DASFAA,International Conference on Database Systems for Advanced Applications,B,数据会议,Springer
+ECML-PKDD,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,B,数据会议,Springer
+ISWC,IEEE International Semantic Web Conference,B,数据会议,IEEE
+ICDM,IEEE International Conference on Data Mining,B,数据会议,IEEE
+ICDT,International Conference on Database Theory,B,数据会议,Springer
+EDBT,International Conference on Extending Database Technology,B,数据会议,Springer
+CIDR,Conference on Innovative Data Systems Research,B,数据会议,Online Proceeding
+SDM,SIAM International Conference on Data Mining,B,数据会议,SIAM
+RecSys,ACM Conference on Recommender Systems,B,数据会议,ACM
+APWeb,Asia Pacific Web Conference,C,数据会议,Springer
+DEXA,International Conference on Database and Expert System Applications,C,数据会议,Springer
+ECIR,European Conference on Information Retrieval,C,数据会议,Springer
+ESWC,Extended Semantic Web Conference,C,数据会议,Springer
+WebDB,International Workshop on Web and Databases,C,数据会议,ACM
+ER,International Conference on Conceptual Modeling,C,数据会议,Springer
+MDM,International Conference on Mobile Data Management,C,数据会议,IEEE
+SSDBM,International Conference on Scientific and Statistical Database Management,C,数据会议,IEEE
+WAIM,International Conference on Web Age Information Management,C,数据会议,Springer
+SSTD,International Symposium on Spatial and Temporal Databases,C,数据会议,Springer
+PAKDD,Pacific-Asia Conference on Knowledge Discovery and Data Mining,C,数据会议,Springer
+WISE,Web Information Systems Engineering,C,数据会议,Springer
+ADMA,International Conference on Advanced Data Mining and Applications,C,数据会议,Springer
+TOG,ACM Transactions on Graphics,A,图形学期刊,ACM
+TIP,IEEE Transactions on Image Processing,A,图形学期刊,IEEE
+TVCG,IEEE Transactions on Visualization and Computer Graphics,A,图形学期刊,IEEE
+TOMM,ACM Transactions on Multimedia Computing Communications and Applications,B,图形学期刊,ACM
+CAGD,Computer Aided Geometric Design,B,图形学期刊,Elsevier
+CGF,Computer Graphics Forum,B,图形学期刊,Wiley
+CAD,Computer-Aided Design,B,图形学期刊,Elsevier
+GM,Graphical Models,B,图形学期刊,Elsevier
+TCSVT,IEEE Transactions on Circuits and Systems for Video Technology,B,图形学期刊,IEEE
+TMM,IEEE Transactions on Multimedia,B,图形学期刊,IEEE
+JASA,The Journal of the Acoustical Society of America,B,图形学期刊,AIP
+SIIMS,SIAM Journal on Imaging Sciences,B,图形学期刊,SIAM
+SPECOM,Speech Communication,B,图形学期刊,Elsevier
+CGTA,Computational Geometry: Theory and Applications,C,图形学期刊,Elsevier
+CAVW,computer animation & virtual worlds,C,图形学期刊,Wiley
+C&G,Computers & Graphics,C,图形学期刊,Elsevier
+DCG,Discrete & Computational Geometry,C,图形学期刊,Springer
+SPL,IEEE Signal Processing Letters,C,图形学期刊,IEEE
+IET-IPR,IET Image Processing,C,图形学期刊,IET
+JVCIR,Journal of Visual Communication and Image Representation,C,图形学期刊,Elsevier
+MS,Multimedia Systems,C,图形学期刊,Springer
+MTA,Multimedia Tools and Applications,C,图形学期刊,Springer
+SIGPRO,Signal Processing,C,图形学期刊,Elsevier
+IMAGE,Signal Processing: Image Communication,C,图形学期刊,Elsevier
+TVC,The Visual Computer,C,图形学期刊,Springer
+CVMJ,Computational Visual Media,C,图形学期刊,Tsinghua University;Springer
+ACM MM, ACM International Conference on Multimedia,A,图形学会议,ACM
+SIGGRAPH,ACM Special Interest Group on Computer Graphics,A,图形学会议,ACM
+VR,IEEE Virtual Reality,A,图形学会议,IEEE
+IEEE VIS,IEEE Visualization Conference,A,图形学会议,IEEE
+ICMR,ACM SIGMM International Conference on Multimedia Retrieval,B,图形学会议,ACM
+I3D,ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games,B,图形学会议,ACM
+SCA,ACM SIGGRAPH/Eurographics Symposium on Computer Animation,B,图形学会议,ACM
+DCC,Data Compression Conference,B,图形学会议,IEEE
+Eurographi cs,Annual Conference of the European Association for Computer Graphics,B,图形学会议,Wiley/Blackwell
+EuroVis,Eurographics Conference on Visualization,B,图形学会议,ACM
+SGP,Eurographics Symposium on Geometry Processing,B,图形学会议,Wiley/Blackwell
+EGSR,Eurographics Symposium on Rendering,B,图形学会议,Wiley/Blackwell
+ICASSP,IEEE International Conference on Acoustics，Speech and Signal Processing,B,图形学会议,IEEE
+ICME,IEEE International Conference on Multimedia & Expo,B,图形学会议,IEEE
+ISMAR,International Symposium on Mixed and Augmented Reality,B,图形学会议,IEEE/ACM
+PG,Pacific Conference onComputer Graphics and Applications,B,图形学会议,Wiley/Blackwell
+SPM,Symposium on Solid and Physical Modeling,B,图形学会议,SMA/Elsevier
+VRST,ACM Symposium on Virtual Reality Software and Technology,C,图形学会议,ACM
+CASA,International Conference on Computer Animation and Social Agents,C,图形学会议,Wiley
+CGI,Computer Graphics International,C,图形学会议,Springer
+INTERSPEECH,Conference of the International Speech Communication Association,C,图形学会议,无
+GMP,Geometric Modeling and Processing,C,图形学会议,Elsevier
+PacificVis,IEEE Pacific Visualization Symposium,C,图形学会议,IEEE
+3DV,International Conference on 3D Vision,C,图形学会议,IEEE
+CAD/Graphics,International Conference on Computer-Aided Design and Computer Graphics,C,图形学会议,IEEE
+ICIP,IEEE International Conference on Image Processing,C,图形学会议,IEEE
+MMM,International Conference on Multimedia Modeling,C,图形学会议,Springer
+MMAsia,ACM Multimedia Asia,C,图形学会议,ACM
+SMI,Shape Modeling International,C,图形学会议,IEEE
+ICVRV,International Conference on Virtual Reality and Visualization,C,图形学会议,IEEE
+CVM,Computational Visual Media,C,图形学会议,Tsinghua University
+PRCV,Chinese Conference on Pattern Recognition and Computer Vision(中国模式识别与计算机视觉大会),C,图形学会议,Springer
+AI,Artificial Intelligence,A,人工智能期刊,Elsevier
+TPAMI,IEEE Transactions on Pattern Analysis and MachineIntelligence,A,人工智能期刊,IEEE
+IJCV,International Journal of Computer Vision,A,人工智能期刊,Springer
+JMLR,Journal of Machine Learning Research,A,人工智能期刊,MIT Press
+TAP,ACM Transactions on Applied Perception,B,人工智能期刊,ACM
+TSLP,ACM Transactions on Speech and Language(2013年已停刊),B,人工智能期刊,ACM
+AAMAS,Autonomous Agents and Multi-Agent Systems,B,人工智能期刊,Springer
+Computational Linguistics,Computational Linguistics,B,人工智能期刊,MIT Press
+CVIU,Computer Vision and Image Understanding,B,人工智能期刊,Elsevier
+DKE,Data & Knowledge Engineering,B,人工智能期刊,Elsevier
+Evolutionary Computation,Evolutionary Computation,B,人工智能期刊,MIT Press
+TAC,IEEE Transactions on Affective Computing,B,人工智能期刊,IEEE
+TASLP,IEEE/ACM Transactions on Audio，Speech and Language Processing,B,人工智能期刊,IEEE
+IEEE Transactions on Cybernetics,IEEE Transactions on Cybernetics,B,人工智能期刊,IEEE
+TEC,IEEE Transactions on Evolutionary Computation,B,人工智能期刊,IEEE
+TFS,IEEE Transactions on Fuzzy Systems,B,人工智能期刊,IEEE
+TNNLS,IEEE Transactions on Neural Networks and learning systems,B,人工智能期刊,IEEE
+IJAR,International Journal of Approximate Reasoning,B,人工智能期刊,Elsevier
+JAIR,Journal of Artificial Intelligence Research,B,人工智能期刊,AAAI
+Journal of Automated Reasoning,Journal of Automated Reasoning,B,人工智能期刊,Springer
+JSLHR,Journal of Speech，Language，and Hearing Research,B,人工智能期刊,American Speech-Language Hearing Association
+Machine Learning,Machine Learning,B,人工智能期刊,Springer
+Neural Computation,Neural Computation,B,人工智能期刊,MIT Press
+Neural Networks,Neural Networks,B,人工智能期刊,Elsevier
+PR,Pattern Recognition,B,人工智能期刊,Elsevier
+TACL,Transactions of the Association for Computational Linguistics,B,人工智能期刊,The Association for Computational Linguistics
+TALLIP,ACM Transactions on Asian and Low-Resource Language Information Processing,C,人工智能期刊,ACM
+Applied Intelligence,Applied Intelligence,C,人工智能期刊,Springer
+AIM,Artificial Intelligence in Medicine,C,人工智能期刊,Elsevier
+Artificial Life,Artificial Life,C,人工智能期刊,MIT Press
+Computational Intelligence,Computational Intelligence,C,人工智能期刊,Wiley
+Computer Speech & Language,Computer Speech & Language,C,人工智能期刊,Elsevier
+Connection Science,Connection Science,C,人工智能期刊,Taylor & Francis
+DSS,Decision Support Systems,C,人工智能期刊,Elsevier
+EAAI,Engineering Applications of Artificial Intelligence,C,人工智能期刊,Elsevier
+Expert Systems,Expert Systems,C,人工智能期刊,Blackwell/Wiley
+ESWA,Expert Systems with Applications,C,人工智能期刊,Elsevier
+Fuzzy Sets and Systems,Fuzzy Sets and Systems,C,人工智能期刊,Elsevier
+TG,IEEE Transactions on Games,C,人工智能期刊,IEEE
+IET-CVI,IET Computer Vision,C,人工智能期刊,IET
+IET Signal Processing,IET Signal Processing,C,人工智能期刊,IET
+IVC,Image and Vision Computing,C,人工智能期刊,Elsevier
+IDA,Intelligent Data Analysis,C,人工智能期刊,IOS Press
+IJCIA,International Journal of Computational Intelligence and Applications,C,人工智能期刊,World Scientific
+IJIS,International Journal of Intelligent Systems,C,人工智能期刊,Wiley
+IJNS,International Journal of Neural Systems,C,人工智能期刊,World Scientific
+IJPRAI,International Journal of Pattern Recognition and Artificial Intelligence,C,人工智能期刊,World Scientific
+IJUFKS,International Journal of Uncertainty，Fuzziness and Knowledge-Based Systems,C,人工智能期刊,World Scientific
+IJDAR,International Journal on Document Analysis and Recognition,C,人工智能期刊,Springer
+JETAI,Journal of Experimental and Theoretical Artificial Intelligence,C,人工智能期刊,Taylor & Francis
+KBS,Knowledge-Based Systems,C,人工智能期刊,Elsevier
+Machine Translation,Machine Translation,C,人工智能期刊,Springer
+Machine Vision and Applications,Machine Vision and Applications,C,人工智能期刊,Springer
+Natural Computing,Natural Computing,C,人工智能期刊,Springer
+NLE,Natural Language Engineering,C,人工智能期刊,Cambridge University Press
+NCA,Neural Computing and Applications,C,人工智能期刊,Springer
+NPL,Neural Processing Letters,C,人工智能期刊,Springer
+Natural Computing,Natural Computing,C,人工智能期刊,Elsevier
+PAA,Pattern Analysis and Applications,C,人工智能期刊,Springer
+PRL,Pattern Recognition Letters,C,人工智能期刊,Elsevier
+Soft Computing,Soft Computing,C,人工智能期刊,Springer
+WI,Web Intelligence,C,人工智能期刊,IOS Press
+TIIS,ACM Transactions on Interactive Intelligent Systems,C,人工智能期刊,ACM
+AAAI,AAAI Conference on Artificial Intelligence,A,人工智能会议,AAAI
+NeurIPS,Conference on Neural Information Processing Systems,A,人工智能会议,MIT Press
+ACL,Annual Meeting of the Association for Computational Linguistics,A,人工智能会议,ACL
+CVPR,IEEE/CVF Computer Vision and Pattern Recognition Conference,A,人工智能会议,IEEE
+ICCV,International Conference on Computer Vision,A,人工智能会议,IEEE
+ICML,International Conference on Machine Learning,A,人工智能会议,ACM
+IJCAI,International Joint Conference on Artificial Intelligence,A,人工智能会议,Morgan Kaufmann
+COLT,Annual Conference on Computational Learning Theory,B,人工智能会议,Springer
+EMNLP,Conference on Empirical Methods in Natural Language Processing,B,人工智能会议,ACL
+ECAI,European Conference on Artificial Intelligence,B,人工智能会议,IOS Press
+ECCV,European Conference on Computer Vision,B,人工智能会议,Springer
+ICRA,IEEE International Conference on Robotics and Automation,B,人工智能会议,IEEE
+ICAPS,International Conference on Automated Planning and Scheduling,B,人工智能会议,AAAI
+ICCBR,International Conference on Case-Based Reasoning,B,人工智能会议,Springer
+COLING,International Conference on Computational Linguistics,B,人工智能会议,International Committee on Computational Linguistics
+KR,International Conference onPrinciples of Knowledge Representation and Reasoning,B,人工智能会议,Morgan Kaufmann
+UAI,Conference onUncertainty in Artificial Intelligence,B,人工智能会议,AUAI
+AAMAS,International Joint Conference on Autonomous Agents and Multiagent Systems,B,人工智能会议,Springer
+PPSN,Parallel Problem Solving from Nature,B,人工智能会议,Springer
+NAACL,North American Chapter of the Association for Computational Linguistics,B,人工智能会议,Association for Computational Linguistics
+AISTATS, International Conference on Artificial Intelligence and Statistics,C,人工智能会议,JMLR
+ACCV,Asian Conference on Computer Vision,C,人工智能会议,Springer
+ACML,Asian Conference on Machine Learning,C,人工智能会议,JMLR
+BMVC,British Machine Vision Conference,C,人工智能会议,British Machine Vision Association
+NLPCC,CCF International Conference on Natural Language Processing and Chinese Computing,C,人工智能会议,Springer
+CoNLL,Conference on Computational Natural Language Learning,C,人工智能会议,Association for Computational Linguistics
+GECCO,Genetic and Evolutionary Computation Conference,C,人工智能会议,ACM
+ICTAI,IEEE International Conference on Tools with Artificial Intelligence,C,人工智能会议,IEEE
+IROS,IEEE\RSJ International Conference on Intelligent Robots and Systems,C,人工智能会议,IEEE
+ALT,International Conference on Algorithmic Learning Theory,C,人工智能会议,Springer
+ICANN,International Conference on Artificial Neural Networks,C,人工智能会议,Springer
+FG,IEEE International Conference on Automatic Face and Gesture Recognition,C,人工智能会议,IEEE
+ICDAR,International Conference on Document Analysis and Recognition,C,人工智能会议,IEEE
+ILP,International Conference on Inductive Logic Programming,C,人工智能会议,Springer
+KSEM,International conference on Knowledge Science，Engineering and Management,C,人工智能会议,Springer
+ICONIP,International Conference on Neural Information Processing,C,人工智能会议,Springer
+ICPR,International Conference on Pattern Recognition,C,人工智能会议,IEEE
+IJCB,International Joint Conference on Biometrics,C,人工智能会议,IEEE
+IJCNN,International Joint Conference on Neural Networks,C,人工智能会议,IEEE
+PRICAI,Pacific Rim International Conference on Artificial Intelligence,C,人工智能会议,Springer
+JACM,Journal of the ACM,A,交叉/综合/新兴期刊,ACM
+Proc.IEEE,Proceedings of the IEEE,A,交叉/综合/新兴期刊,IEEE
+SCIS,Science China Information Sciences,A,交叉/综合/新兴期刊,Science in China Press/Springer
+Bioinformatics,Bioinformatics,B,交叉/综合/新兴期刊,Oxford University Press
+Briefings in Bioinformatics,Briefings in Bioinformatics,B,交叉/综合/新兴期刊,Oxford University Press
+Cognition,Cognition,B,交叉/综合/新兴期刊,Elsevier
+TASAE,IEEE Transactions on Automation Science and Engineering,B,交叉/综合/新兴期刊,IEEE
+TGARS,IEEE Transactions on Geoscience and Remote Sensing,B,交叉/综合/新兴期刊,IEEE
+TITS,IEEE Transactions on Intelligent Transportation Systems,B,交叉/综合/新兴期刊,IEEE
+TMI,IEEE Transactions on Medical Imaging,B,交叉/综合/新兴期刊,IEEE
+TR,IEEE Transactions on Robotics,B,交叉/综合/新兴期刊,IEEE
+TCBB,IEEE/ACM Transactions on Computational Biology and Bioinformatics,B,交叉/综合/新兴期刊,IEEE/ACM
+JCST,Journal of Computer Science and Technology,B,交叉/综合/新兴期刊,SCIENCE PRESS/Springer
+JAMIA,Journal of the American Medical Informatics Association,B,交叉/综合/新兴期刊,BMJ Journals
+PLOS Computational Biology,PLOS Computational Biology,B,交叉/综合/新兴期刊,Public Library of Science
+The Computer Journal,The Computer Journal,B,交叉/综合/新兴期刊,Oxford University Press
+WWW,World Wide Web,B,交叉/综合/新兴期刊,Springer
+FCS,Frontiers of Computer Science,B,交叉/综合/新兴期刊,Higher Education Press
+BMC Bioinformatics,BMC Bioinformatics,C,交叉/综合/新兴期刊,BioMed Central
+Cybernetics and Systems,Cybernetics and Systems,C,交叉/综合/新兴期刊,Taylor&Francis
+IEEE Geoscience and Remote Sensing Letters,IEEE Geoscience and Remote Sensing Letters,C,交叉/综合/新兴期刊,IEEE
+JBHI,IEEE Journal of Biomedical and Health Informatics,C,交叉/综合/新兴期刊,IEEE
+TBD,IEEE Transactions on Big Data,C,交叉/综合/新兴期刊,IEEE
+IET Intelligent Transport Systems,IET Intelligent Transport Systems,C,交叉/综合/新兴期刊,IET
+JBI,Journal of Biomedical Informatics,C,交叉/综合/新兴期刊,Elsevier
+Medical Image Analysis,Medical Image Analysis,C,交叉/综合/新兴期刊,Elsevier
+TII,IEEE Transactions on Industrial Informatics,C,交叉/综合/新兴期刊,IEEE
+TCPS,ACM Transactions on Cyber-Physical Systems,C,交叉/综合/新兴期刊,ACM
+TOCE,ACM Transactions on Computing Education,C,交叉/综合/新兴期刊,ACM
+FITEE,Frontiers of Information Technology&Electronic Engineering,C,交叉/综合/新兴期刊,Springer
+TCSS,IEEE Transactions on Computational Social Systems,C,交叉/综合/新兴期刊,IEEE
+IEEE Transactions on Reliability,IEEE Transactions on Reliability,C,交叉/综合/新兴期刊,IEEE
+WWW,International World Wide Web Conference,A,交叉/综合/新兴会议,ACM
+RTSS,IEEE Real-Time Systems Symposium,A,交叉/综合/新兴会议,IEEE
+WINE,Conference on Web and Internet Economics,A,交叉/综合/新兴会议,Springer
+CogSci,Annual Meeting of the Cognitive Science Society,B,交叉/综合/新兴会议,Psychology Press
+BIBM,IEEE International Conference on Bioinformatics and Biomedicine,B,交叉/综合/新兴会议,IEEE
+EMSOFT,International Conference on Embedded Software,B,交叉/综合/新兴会议,ACM/IEEE/IFIP
+ISMB,International conference on Intelligent Systems for Molecular Biology,B,交叉/综合/新兴会议,Oxford Journals
+RECOMB,Annual International Conference on Research in Computational Molecular Biology,B,交叉/综合/新兴会议,Springer
+MICCAI,International Conference on Medical Image Computing and Computer-Assisted Intervention,B,交叉/综合/新兴会议,Springer
+AMIA,American Medical Informatics Association Annual Symposium,C,交叉/综合/新兴会议,AMIA
+APBC,Asia Pacific Bioinformatics Conference,C,交叉/综合/新兴会议,BioMed Central
+IEEE BigData,IEEE International Conference on Big Data,C,交叉/综合/新兴会议,IEEE
+IEEE CLOUD,IEEE International Conference on Cloud Computing,C,交叉/综合/新兴会议,IEEE
+SMC,IEEE International Conference on Systems，Man，and Cybernetics,C,交叉/综合/新兴会议,IEEE
+COSIT,International Conference on Spatial Information Theory,C,交叉/综合/新兴会议,ACM
+ISBRA,International Symposium on Bioinformatics Research and Applications,C,交叉/综合/新兴会议,Springer
+SAGT,International Symposium on Algorithmic Game Theory,C,交叉/综合/新兴会议,Springer
+SIGSPATI AL,ACM Special Interest Group on Spatial Information,C,交叉/综合/新兴会议,ACM
+ICIC,International Conference on Intelligent Computing,C,交叉/综合/新兴会议,Springer-Nature
+
+
